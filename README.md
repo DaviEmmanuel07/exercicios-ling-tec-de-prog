@@ -1,1 +1,1 @@
-![Banner](https://raw.githubusercontent.com/DaviEmmanuel07/NOME-DO-REPOSITORIO/main/assets/banner-materia.svg)
+![Banner](https://raw.githubusercontent.com/DaviEmmanuel07/exercicios-ling-tec-de-pro/main/banner-materia.svg)
