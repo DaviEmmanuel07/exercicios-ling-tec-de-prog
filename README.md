@@ -1,2 +1,1 @@
-# exercicios-ling-tec-de-pro
-repositório para guardar os códigos  da lista de exercícios que o professor não fez em aula 
+![Banner](https://raw.githubusercontent.com/DaviEmmanuel07/NOME-DO-REPOSITORIO/main/assets/banner-materia.svg)
