@@ -6,7 +6,7 @@
 int main(int argc, char *argv[]) {
   
   double vp, pvp, preco;
-  printf("cooque seu preco e valor patrimonial: ");
+  printf("coloque seu preco e valor patrimonial: ");
   scanf("%lf %lf", &preco, &vp);
   pvp = vp / (preco * 100);
   
